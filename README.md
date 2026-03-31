@@ -1,18 +1,27 @@
 -- Overview
-This repository contians the presentation slides for a comprehensive sales performance review conducted for Bright Coffee shop, covering the period from Jan to Jun 2023
+This repository contians the presentation slides for a comprehensive sales performance review conducted for Bright Coffee shop, covering the period from Jan to Jun 2023.
+
+
 -- Aim
 The analysis aims to identify key sales trends, customer behaviour patterns and product performance driven to inform strategic decisions for accelerating revenue growth and optimizing operational effeciency.
+
+
+
 -- Key Insight
 Morning perfomances.
 the main product selling. 
 Underperforming products.
 Store Performance. 
 
+
+
 -- Tools & Technology Used
 Miro,
 Excel,
 SQL and 
 Canva.
+
+
 
 -- Contact 
 Email: tshemol@gmail.com
